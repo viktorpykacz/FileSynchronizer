@@ -1,4 +1,4 @@
-# 🔄 FileSynchronizer (Klon GoodSync w technologii C# .NET 9)
+# 🔄 FileSynchronizer
 
 Zaawansowany program do synchronizacji i tworzenia kopii zapasowych plików między folderami komputera a nośnikami USB.
 
