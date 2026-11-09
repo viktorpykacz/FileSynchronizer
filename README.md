@@ -1,6 +1,6 @@
 # 🔄 FileSynchronizer (Klon GoodSync w technologii C# .NET 9)
 
-Zaawansowany program do synchronizacji i tworzenia kopii zapasowych plików między folderami komputera a nośnikami USB, wzorowany na mechanizmach programu **GoodSync**.
+Zaawansowany program do synchronizacji i tworzenia kopii zapasowych plików między folderami komputera a nośnikami USB.
 
 ---
 
