@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileSynchronizer.Core.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47cedc3d2a95efa562bff6f544ff6e3f79a5902")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileSynchronizer.Core.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileSynchronizer.Core.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
