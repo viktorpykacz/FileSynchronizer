@@ -1,0 +1,12 @@
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\bin\Debug\net9.0\FileSynchronizer.Core.deps.json
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\bin\Debug\net9.0\FileSynchronizer.Core.dll
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\bin\Debug\net9.0\FileSynchronizer.Core.pdb
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.dll
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\refint\FileSynchronizer.Core.dll
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\FileSynchronizer.Core.pdb
+C:\Users\vikto\OneDrive\Programowanie\Projekty_AI\FileSynchronizer\src\FileSynchronizer.Core\obj\Debug\net9.0\ref\FileSynchronizer.Core.dll
