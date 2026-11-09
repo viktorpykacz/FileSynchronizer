@@ -1,0 +1,11 @@
+# Cursor Rules for FileSynchronizer (.NET 9 / C# 13 / WPF)
+
+- Target .NET 9 (`net9.0-windows`), C# 13.
+- Use file-scoped namespaces (`namespace FileSynchronizer...;`).
+- Nullable reference types are strictly enforced; avoid `!` when possible.
+- Core library (`FileSynchronizer.Core`) must remain platform/UI agnostic (no WPF references).
+- Use `System.IO.Hashing.XxHash64` for file checksums.
+- Always implement two-phase synchronization: Diff/Plan first, then Execute.
+- All file write operations must be atomic (write to temp file, atomic overwrite) and preserve file metadata timestamps.
+- MVVM pattern in `FileSynchronizer.UI`: use `ObservableObject`, `RelayCommand`, and dispatch UI-bound changes with `Application.Current.Dispatcher`.
+- When writing tests, use xUnit and test in isolated temporary directories.
